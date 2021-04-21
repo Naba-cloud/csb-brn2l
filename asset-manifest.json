@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naba-cloud.github.io/csb-brn2l/static/css/main.535b3c94.chunk.css",
+    "main.js": "https://naba-cloud.github.io/csb-brn2l/static/js/main.b8024127.chunk.js",
+    "main.js.map": "https://naba-cloud.github.io/csb-brn2l/static/js/main.b8024127.chunk.js.map",
+    "runtime-main.js": "https://naba-cloud.github.io/csb-brn2l/static/js/runtime-main.a71de23d.js",
+    "runtime-main.js.map": "https://naba-cloud.github.io/csb-brn2l/static/js/runtime-main.a71de23d.js.map",
+    "static/js/2.13520711.chunk.js": "https://naba-cloud.github.io/csb-brn2l/static/js/2.13520711.chunk.js",
+    "static/js/2.13520711.chunk.js.map": "https://naba-cloud.github.io/csb-brn2l/static/js/2.13520711.chunk.js.map",
+    "index.html": "https://naba-cloud.github.io/csb-brn2l/index.html",
+    "static/css/main.535b3c94.chunk.css.map": "https://naba-cloud.github.io/csb-brn2l/static/css/main.535b3c94.chunk.css.map",
+    "static/js/2.13520711.chunk.js.LICENSE.txt": "https://naba-cloud.github.io/csb-brn2l/static/js/2.13520711.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71de23d.js",
+    "static/js/2.13520711.chunk.js",
+    "static/css/main.535b3c94.chunk.css",
+    "static/js/main.b8024127.chunk.js"
+  ]
+}
